@@ -53,3 +53,7 @@ pages:
   artifacts:
     paths:
     - public
+
+ui:
+  bundle:
+    url: https://github.com/asciidoctor/asciidoctor-docs-ui/releases/download/prod-268/ui-bundle.zip
