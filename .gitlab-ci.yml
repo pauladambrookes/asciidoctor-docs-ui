@@ -56,4 +56,4 @@ pages:
 
 ui:
   bundle:
-    url: https://github.com/pauladambrookes/asciidoctor-docs-ui/releases/download/prod-268/ui-bundle.zip
+    url: https://github.com/asciidoctor/asciidoctor-docs-ui/releases/download/prod-268/ui-bundle.zip
