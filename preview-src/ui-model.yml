@@ -27,15 +27,6 @@ site:
       url: '#'
       version: '5.2'
       displayVersion: '5.2'
-    - url: '#'
-      version: '5.1'
-      displayVersion: '5.1'
-    - url: '#'
-      version: '5.0'
-      displayVersion: '5.0'
-    - url: '#'
-      version: '4.5'
-      displayVersion: '4.5'
     latestVersion: *latest_version_xyz
   - name: '123'
     title: Project 123
