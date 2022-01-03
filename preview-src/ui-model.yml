@@ -86,6 +86,8 @@ page:
       url: '#'
       urlType: fragment
       items:
+      - content: New stuff
+      - url: https://gitlab.com/antora/demo/demo-component-a.git
       - content: Brand&#8217;s Hardware &amp; Software Requirements
         url: /index.html
         urlType: internal
