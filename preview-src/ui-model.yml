@@ -101,7 +101,7 @@ page:
     - content: Reference
       items:
       - content: Keyboard Shortcuts
-        url: '#'
+        url: '/pages'
         urlType: fragment
       - content: Importing and Exporting
         url: '#'
